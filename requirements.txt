@@ -1,0 +1,4 @@
+requests~=2.32
+pydantic~=2.10
+httpx~=0.28
+python-decouple~=3.8
